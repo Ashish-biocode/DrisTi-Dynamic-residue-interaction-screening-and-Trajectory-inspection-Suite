@@ -33,6 +33,14 @@ Molecular docking and molecular dynamics simulations are widely used in structur
 
 <img width="2813" height="1503" alt="sc_1" src="https://github.com/user-attachments/assets/5d4247f3-0873-424e-942c-bf6d28b09606" />
 
+### Key Capabilities
+
+<img width="3047" height="1627" alt="sc_2" src="https://github.com/user-attachments/assets/ec4bf98b-1144-49a1-87b3-a50a4759acde" />
+
+<img width="2608" height="1989" alt="sc_3" src="https://github.com/user-attachments/assets/bf169ba5-7ce9-4c58-8451-8804d1fd60c9" />
+
+<img width="2939" height="1933" alt="sc_4" src="https://github.com/user-attachments/assets/f00709af-64f8-4760-8147-cd4c033769f7" />
+
 
 ### TrajIn
 
