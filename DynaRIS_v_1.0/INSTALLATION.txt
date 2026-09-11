@@ -1,0 +1,30 @@
+DynaRIS 1.0 — Installation and Use
+======================================
+--- Download the folder containing all files from GitHub.
+
+--- Keep your files in the downlaoded folder with protein saved as "protein.pdb" and the file containg the ligand(s) as "ligand.sdf".
+
+--- Open a terminal or anaconda prompt and navigate to the folder named "DynaRIS_v_1.0".
+
+--- Run from the project directory:
+
+    python main.py
+
+--- The GUI will pop up the user can upload the files protein and ligand files and hit "Run Analysis".
+
+--- The user can now select ligands to inspect their interactions and 3D structures.
+
+--- It allows the users to export the required structures, tables, HTML, PNG, or ligand package.
+
+--- The users can also uplaod a single ".sdf" file with multiple ligands and can also downlaod the interaction data in a single text or csv file for all uploaded ligands simultaneaously. 
+ 
+
+Required packages:
+    PyQt5
+    PyQtWebEngine
+    MDAnalysis
+    RDKit
+    NumPy
+
+The embedded 3D viewer uses 3Dmol.js.
+

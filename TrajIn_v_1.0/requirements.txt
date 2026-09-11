@@ -1,0 +1,7 @@
+MDAnalysis==2.6.1
+numpy==1.26.4
+matplotlib==3.10.3
+PyQt5==5.15.11
+scipy==1.15.2
+pandas==1.4.1
+biopython
