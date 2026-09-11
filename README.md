@@ -56,6 +56,16 @@ Molecular docking and molecular dynamics simulations are widely used in structur
 * Clustering and representative-structure extraction
 * Structural extraction from trajectories
 
+### TrajIn Interface
+
+<img width="2629" height="2718" alt="TI_Sc1" src="https://github.com/user-attachments/assets/020c44e8-3d1d-487c-b85d-144025c566d2" />
+
+### Key Capabilities
+
+<img width="7772" height="5339" alt="TI_SC2" src="https://github.com/user-attachments/assets/a841c3c9-5348-4bfe-8eab-95ef06ce4a9b" />
+
+
+
 ## DrisTi Workflow
 
 ```text
