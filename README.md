@@ -29,6 +29,11 @@ Molecular docking and molecular dynamics simulations are widely used in structur
 * Export of interaction results
 * Suitable for rapid analysis of docked protein–ligand complexes
 
+### DynaRIS Interface
+
+<img width="2813" height="1503" alt="sc_1" src="https://github.com/user-attachments/assets/5d4247f3-0873-424e-942c-bf6d28b09606" />
+
+
 ### TrajIn
 
 * Molecular dynamics trajectory analysis
